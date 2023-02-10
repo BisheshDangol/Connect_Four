@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/brainoutofbounds/connect4_flutter/BuildConfig.java
+ com.brainoutofbounds.connect4_flutter.BuildConfig
